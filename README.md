@@ -1,6 +1,6 @@
-# Animate with React + TypeScript + Vite
+# Animate
 
-This project showcases various animations and components built using React, TypeScript, and Vite. It incorporates components from external libraries like [Motion](https://motion.dev/) for animations and [React Bits](https://reactbits.dev/) for pre-built React components to demonstrate their usage and capabilities within a modern web development setup.
+This project showcases various animations and components built using React, TypeScript, and Vite. It incorporates external libraries to demonstrate their usage and capabilities within a modern web development setup.
 
 ## Tech Stack
 
