@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@appletosolutions/reactbits": "^1.0.3",
     "@tailwindcss/vite": "^4.1.11",
     "gsap": "^3.13.0",
     "matter-js": "^0.20.0",
