@@ -15,8 +15,8 @@
     "matter-js": "^0.20.0",
     "motion": "^11.18.2",
     "motion-plus": "^1.4.1",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
     "three": "^0.150.0"
   },
   "devDependencies": {
